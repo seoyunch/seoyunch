@@ -1,4 +1,6 @@
-### Hi there 👋
+# Official Repository of seoyunch
+### Hi😄 my name is Choi seoyun.
+Im a student of Gachon university and my major is AI.
 
 <!--
 **seoyunch/seoyunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
