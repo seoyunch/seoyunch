@@ -5,7 +5,6 @@
   height="300"
 />
 </a>
-
 <div align="center">
 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
