@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoyunch&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seoyunch"
-  width=100%
+  width="100%"
   height="300"
 />
 </a>
