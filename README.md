@@ -37,5 +37,10 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
     </a>
   </div>
+  <br>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/seoyunch/seoyunch/output/pacman-contribution-graph-dark.svg?v=1" />
+  </div>
 
 </div>
